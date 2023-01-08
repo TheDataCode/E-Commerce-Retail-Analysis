@@ -19,9 +19,9 @@ Some insights this projects seeks to derive are:
 
 Libraries used for analysis:
 
-Pandas                                                                                                                                                                
-Matplotlib                                                                                                                                                              Seaborn
-Statsmodels                                                                                                                      
+pandas  
+seaborn                                                                                                                                                      
+matplotlib                                                                                                                                                              statsmodels                                                                                                                      
 numpy                                                                                                                                                                                   
 
 
