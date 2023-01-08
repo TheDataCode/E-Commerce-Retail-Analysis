@@ -10,11 +10,11 @@ After data wrangling, there were 420738 rows and 12 columns,ready for analysis.
 
 Some insights this projects seeks to derive are:
 
--Customers who brought in the most revenue
--The most and least performing Countries
--Sales Trend throughout the year
+-Customers who brought in the most revenue                                                                                                                           
+-The most and least performing Countries                                                                                                                          
+-Sales Trend throughout the year                                                                                                                                      
 -Relationship between number of items purchased and revenue, with a hypothesis test to prove it's significance.
--Significant mean difference in sales between countries
+-Significant mean difference in sales between countries                                                                                                             
 
 
 Libraries used for analysis:
