@@ -12,7 +12,8 @@ Some insights this projects seeks to derive are:
 
 -Customers who brought in the most revenue                                                                                                                           
 -The most and least performing Countries                                                                                                                          
--Sales Trend throughout the year                                                                                                                                      
+-Sales Trend throughout the year 
+-Relationship between subgroups in the data
 -Relationship between number of items purchased and revenue, with a hypothesis test to prove it's significance.                                                   
 -Significant mean difference in sales between countries                                                                                                             
 
