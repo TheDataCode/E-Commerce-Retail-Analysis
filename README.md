@@ -1,6 +1,6 @@
 ### E-COMMERCE RETAIL ANALYSIS
 
-This is a statistical analysis on an online retail store that has customers in 38 countries. The dataset contains information on sales and customers for a year.Purchases were made in US dollars.                                                                                                                                            
+This is a statistical analysis on an ecommerce retail store that has customers in 38 countries. The dataset contains information on sales and customers for a year.Purchases were made in US dollars.                                                                                                                                            
 The dataset was provided by [forage](https://www.theforage.com) for their virtual experience program
   
 
