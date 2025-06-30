@@ -5,7 +5,7 @@ An analysis of an e-commerce store that ships to 38 countries, using one year’
 It also examines the relationship between the number of items purchased and total revenue, using hypothesis testing to determine statistical significance. 
 Additionally, the project explores whether there is a significant difference in average sales between countries.
 
-(Link to detailed analysis)[https://github.com/TheDataCode/E-Commerce-Retail-Analysis/blob/main/retail_analysis.ipynb]
+[Link to detailed analysis](https://github.com/TheDataCode/E-Commerce-Retail-Analysis/blob/main/retail_analysis.ipynb)
 
   
 
